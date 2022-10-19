@@ -1,0 +1,5 @@
+export { default as HomePage } from './HomePage'
+export { default as MyProfile } from './MyProfile'
+export { default as UserProfile } from './UserProfile'
+export { default as AccountSettings } from './AccountSettings'
+export { default as Error404 } from './Error404'
